@@ -1,0 +1,6 @@
+C:\Users\god\work\personal\sqlremove\sqlremove\sqlremove\bin\Debug\sqlremove.exe.config
+C:\Users\god\work\personal\sqlremove\sqlremove\sqlremove\bin\Debug\sqlremove.exe
+C:\Users\god\work\personal\sqlremove\sqlremove\sqlremove\bin\Debug\sqlremove.pdb
+C:\Users\god\work\personal\sqlremove\sqlremove\sqlremove\obj\Debug\sqlremove.csprojResolveAssemblyReference.cache
+C:\Users\god\work\personal\sqlremove\sqlremove\sqlremove\obj\Debug\sqlremove.exe
+C:\Users\god\work\personal\sqlremove\sqlremove\sqlremove\obj\Debug\sqlremove.pdb
